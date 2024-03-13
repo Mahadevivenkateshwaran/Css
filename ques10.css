@@ -1,0 +1,18 @@
+.Element1{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 20px;
+    left: 20px;
+    background-color: darkgoldenrod;
+
+}
+.Element2{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    top: 10px;
+    left: 10px;
+    background-color: darkgray;
+
+}
