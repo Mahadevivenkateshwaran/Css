@@ -1,0 +1,12 @@
+.nav{
+    background-color: yellow;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+li{
+   padding: 20px; 
+   margin: 20px;
+   font-size: 20px;
+   display: inline;
+}
