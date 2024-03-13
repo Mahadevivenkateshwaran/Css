@@ -1,0 +1,31 @@
+*{
+    
+    text-align: center;
+    border: 29px;
+    margin: 2px;
+}
+
+
+
+.card{
+    height: 400px;
+    width: 400px;
+    line-height: 25px;
+    border: 30px solid #7D5A44;
+    background-color: #EBE0C7 ;
+    ol{
+        color: #7D5A44;
+    }
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    color: #7D5A44;
+    span{
+        text-decoration: overline;
+        font-size: 15px;
+        text-align: center;
+        color: #7D5A44;
+    }
+    
+}
